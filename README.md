@@ -1,6 +1,6 @@
 # Project Overview
--Made changes to responsive.html a provided file to make it responsive without flex
--Made changes to flex.html a provided file to make it responsive with flex
+-Made changes to responsive.html, a provided file, to make it responsive without flex
+-Made changes to flex.html, a provided file, to make it responsive with flex
 ## Team Members
 |Names              |
 ---------------------
